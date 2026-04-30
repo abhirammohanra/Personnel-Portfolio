@@ -1,2 +1,0 @@
-:HL["/abhiram-mohan-portfolio/_next/static/css/66a88a4a5087b1c4.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"Rj0naFkbuHnJfr5o93cW5"}
